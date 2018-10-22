@@ -1,0 +1,8 @@
+Road Bike
+Mountain Bike
+Touring Bike
+City Bike
+Motor Bike
+Unicycle
+Scooter
+Razor
