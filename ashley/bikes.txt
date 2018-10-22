@@ -6,3 +6,4 @@ Motor Bike
 Unicycle
 Scooter
 Razor
+Custom Bike
